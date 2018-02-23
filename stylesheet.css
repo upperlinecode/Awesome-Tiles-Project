@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+ h2 {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+}
+
 .square1 {
   background-color:#0000ff;
   width: 200px;
@@ -20,7 +33,7 @@
 }
 
 .square4 {
-  background-color:#cc00cc;
+  background-color:#EE82EE;
   width: 200px;
   height: 200px;
   grid-column-start: 2;
@@ -44,7 +57,7 @@
 }
 
 .square7 {
-  background-color:#ff3399;
+  background-color:#FF00FF;
   width: 200px;
   height: 200px;
   grid-column-start: 2;
